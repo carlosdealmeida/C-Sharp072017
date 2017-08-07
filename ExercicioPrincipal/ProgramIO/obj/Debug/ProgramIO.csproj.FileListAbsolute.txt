@@ -1,0 +1,6 @@
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ProgramIO\bin\Debug\ProgramIO.exe.config
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ProgramIO\bin\Debug\ProgramIO.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ProgramIO\bin\Debug\ProgramIO.pdb
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ProgramIO\obj\Debug\ProgramIO.csprojResolveAssemblyReference.cache
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ProgramIO\obj\Debug\ProgramIO.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ProgramIO\obj\Debug\ProgramIO.pdb

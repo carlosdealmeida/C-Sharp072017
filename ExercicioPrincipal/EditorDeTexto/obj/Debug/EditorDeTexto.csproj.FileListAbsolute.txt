@@ -1,0 +1,12 @@
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
+G:\Cursos\CAELUM\C#\ExercicioPrincipal\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+G:\Cursos\CAELUM\C#\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+G:\Cursos\CAELUM\C#\ExercicioPrincipal\EditorDeTexto\obj\Debug\EditorDeTexto.pdb

@@ -1,0 +1,4 @@
+﻿interface ITributavel
+{
+    double CalculaTributo();
+}

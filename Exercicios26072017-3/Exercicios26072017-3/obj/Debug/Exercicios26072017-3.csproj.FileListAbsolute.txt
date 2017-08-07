@@ -1,0 +1,9 @@
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\bin\Debug\Exercicios26072017-3.exe.config
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\obj\Debug\Exercicios26072017-3.csprojResolveAssemblyReference.cache
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\obj\Debug\Exercicios26072017_3.Form1.resources
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\obj\Debug\Exercicios26072017_3.Properties.Resources.resources
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\obj\Debug\Exercicios26072017-3.csproj.GenerateResource.Cache
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\bin\Debug\Exercicios26072017-3.exe
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\bin\Debug\Exercicios26072017-3.pdb
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\obj\Debug\Exercicios26072017-3.exe
+C:\Users\fn7024\Desktop\Exercicios26072017-3\Exercicios26072017-3\obj\Debug\Exercicios26072017-3.pdb

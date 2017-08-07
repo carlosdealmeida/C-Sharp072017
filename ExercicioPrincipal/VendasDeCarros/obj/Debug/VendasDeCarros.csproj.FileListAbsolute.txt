@@ -1,0 +1,6 @@
+C:\Users\fn7024\Desktop\ExercicioPrincipal\VendasDeCarros\bin\Debug\VendasDeCarros.exe.config
+C:\Users\fn7024\Desktop\ExercicioPrincipal\VendasDeCarros\bin\Debug\VendasDeCarros.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\VendasDeCarros\bin\Debug\VendasDeCarros.pdb
+C:\Users\fn7024\Desktop\ExercicioPrincipal\VendasDeCarros\obj\Debug\VendasDeCarros.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\VendasDeCarros\obj\Debug\VendasDeCarros.pdb
+C:\Users\fn7024\Desktop\ExercicioPrincipal\VendasDeCarros\obj\Debug\VendasDeCarros.csprojResolveAssemblyReference.cache

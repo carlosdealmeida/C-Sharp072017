@@ -1,0 +1,9 @@
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\bin\Debug\RevisaoConstrutores.exe.config
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\bin\Debug\RevisaoConstrutores.exe
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\bin\Debug\RevisaoConstrutores.pdb
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\obj\Debug\RevisaoConstrutores.csprojResolveAssemblyReference.cache
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\obj\Debug\RevisaoConstrutores.Form1.resources
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\obj\Debug\RevisaoConstrutores.Properties.Resources.resources
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\obj\Debug\RevisaoConstrutores.csproj.GenerateResource.Cache
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\obj\Debug\RevisaoConstrutores.exe
+C:\Users\fn7024\Desktop\RevisaoConstrutores\RevisaoConstrutores\obj\Debug\RevisaoConstrutores.pdb

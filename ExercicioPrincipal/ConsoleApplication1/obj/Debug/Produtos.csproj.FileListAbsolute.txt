@@ -1,0 +1,6 @@
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ConsoleApplication1\obj\Debug\Produtos.csprojResolveAssemblyReference.cache
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\fn7024\Desktop\ExercicioPrincipal\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
